@@ -2,12 +2,9 @@
   "name": "graphql",
   "version": "1.0.0",
   "description": "Simple Graphql Api Endpoints",
-<<<<<<< HEAD
   "engines": {
     "node": "10.9.0"
   },
-=======
->>>>>>> bfccf7967d85604ab78b3e065cea67c5fc1178c9
   "main": "index.js",
   "scripts": {
     "dev:server": "nodemon server.js",
